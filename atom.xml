@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://madawei.net/"/>
-  <updated>2016-01-31T07:07:11.000Z</updated>
+  <updated>2016-01-31T12:14:25.000Z</updated>
   <id>http://madawei.net/</id>
   
   <author>
@@ -15,62 +15,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[My Post]]></title>
-    <link href="http://madawei.net/2016/01/31/My-Post/"/>
-    <id>http://madawei.net/2016/01/31/My-Post/</id>
-    <published>2016-01-31T07:06:06.000Z</published>
-    <updated>2016-01-31T07:07:11.000Z</updated>
-    <content type="html"><![CDATA[<p>test<br>test</p>
-<h3 id="xxxx"><a href="#xxxx" class="headerlink" title="xxxx"></a>xxxx</h3><hr>
-<p>xxxxx<br>xx</p>
-<p>xxx</p>
-]]></content>
+    <title><![CDATA[打造优雅高效的计算机工作环境]]></title>
+    <link href="http://madawei.net/2016/01/31/20160131/"/>
+    <id>http://madawei.net/2016/01/31/20160131/</id>
+    <published>2016-01-31T12:10:20.000Z</published>
+    <updated>2016-01-31T12:14:25.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="u6807_u9898_u4E00"><a href="#u6807_u9898_u4E00" class="headerlink" title="&#x6807;&#x9898;&#x4E00;"></a>&#x6807;&#x9898;&#x4E00;</h3><h4 id="u56FE_u7247_u5F15_u7528"><a href="#u56FE_u7247_u5F15_u7528" class="headerlink" title="&#x56FE;&#x7247;&#x5F15;&#x7528;"></a>&#x56FE;&#x7247;&#x5F15;&#x7528;</h4><p><img src="/2016/01/31/20160131/test.jpg" alt="&#x672C;&#x5730;&#x56FE;&#x7247;"></p>
+<hr>
+<p><img src="http://ww2.sinaimg.cn/large/5e8cb366jw1e62o63tkv3j20dh078q5a.jpg" alt="&#x7F51;&#x7EDC;&#x56FE;&#x7247;"></p>
+<h4 id="u540D_u8A00_u5F15_u7528"><a href="#u540D_u8A00_u5F15_u7528" class="headerlink" title="&#x540D;&#x8A00;&#x5F15;&#x7528;"></a>&#x540D;&#x8A00;&#x5F15;&#x7528;</h4><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+<h3 id="u6807_u9898_u4E8C"><a href="#u6807_u9898_u4E8C" class="headerlink" title="&#x6807;&#x9898;&#x4E8C;"></a>&#x6807;&#x9898;&#x4E8C;</h3><h4 id="u6BB5_u843D"><a href="#u6BB5_u843D" class="headerlink" title="&#x6BB5;&#x843D;"></a>&#x6BB5;&#x843D;</h4><p>&#x8DDD;&#x79BB;&#x5C31;&#x662F;&#xFF0C;&#x4F60;&#x53D1;&#x4E00;&#x6761;&#x5FAE;&#x535A;&#xFF0C;&#x8FD9;&#x6761;&#x5FAE;&#x535A;&#x8981;&#x9014;&#x7ECF;&#x5317;&#x4E0A;&#x5E7F;&#xFF0C;&#x8FDB;&#x51FA;&#x4E5D;&#x4E5D;&#x516B;&#x5341;&#x4E00;&#x53F0;&#x8DEF;&#x7531;&#x5668;&#xFF0C;&#x4E2D;&#x95F4;&#x8FD8;&#x8981;&#x88AB;&#x62C6;&#x5305;&#x89E3;&#x5305;&#x5408;&#x5E76;&#x5305;&#xFF0C;&#x88AB;&#x4E24;&#x767E;&#x4E2A;CPU&#x8FDB;&#x884C;&#x8FC7;&#x5904;&#x7406;&#xFF0C;&#x518D;&#x663E;&#x793A;&#x5728;&#x6211;&#x7684;&#x7535;&#x8111;&#x4E0A;&#x3002;&#x800C;&#x4F60;&#x660E;&#x660E;&#x5750;&#x5728;&#x79BB;&#x6211;&#x51E0;&#x7C73;&#x7684;&#x5730;&#x65B9;&#x3002;</p>
+<h4 id="u4EE3_u7801_u5757"><a href="#u4EE3_u7801_u5757" class="headerlink" title="&#x4EE3;&#x7801;&#x5757;"></a>&#x4EE3;&#x7801;&#x5757;</h4><figure class="highlight lisp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert<span class="list">(<span class="quoted">&apos;Hello</span> World!&apos;)</span><span class="comment">;</span></span><br></pre></td></tr></table></figure>
+<h4 id="u5916_u90E8_u8D85_u94FE_u63A5"><a href="#u5916_u90E8_u8D85_u94FE_u63A5" class="headerlink" title="&#x5916;&#x90E8;&#x8D85;&#x94FE;&#x63A5;"></a>&#x5916;&#x90E8;&#x8D85;&#x94FE;&#x63A5;</h4><a href="http://zhihu.com" title="[external]" target="_blank" rel="external">&#x77E5;&#x4E4E;</a>
+<h4 id="u5185_u90E8_u8D85_u94FE_u63A5"><a href="#u5185_u90E8_u8D85_u94FE_u63A5" class="headerlink" title="&#x5185;&#x90E8;&#x8D85;&#x94FE;&#x63A5;"></a>&#x5185;&#x90E8;&#x8D85;&#x94FE;&#x63A5;</h4>  ]]></content>
     <summary type="html">
-    <![CDATA[<p>test<br>test</p>
-<h3 id="xxxx"><a href="#xxxx" class="headerlink" title="xxxx"></a>xxxx</h3><hr>
-<p>xxxxx<br>xx</p>
-<p>xxx</p>
-]]>
+    <![CDATA[<h3 id="u6807_u9898_u4E00"><a href="#u6807_u9898_u4E00" class="headerlink" title="&#x6807;&#x9898;&#x4E00;"></a>&#x6807;&#x9898;&#x4E00;</h3]]>
     </summary>
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[test]]></title>
-    <link href="http://madawei.net/2016/01/25/test/"/>
-    <id>http://madawei.net/2016/01/25/test/</id>
-    <published>2016-01-25T08:21:44.000Z</published>
-    <updated>2016-01-31T07:10:43.000Z</updated>
-    <content type="html"><![CDATA[<p>xxxxx<br>xfsdafsadfsdaf<br>dsafasdfsda<br>xxxxx</p>
-<p>afdsf</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>xxxxx<br>xfsdafsadfsdaf<br>dsafasdfsda<br>xxxxx</p>
-<p>afdsf</p>
-]]>
-    </summary>
+      <category term="IT开发" scheme="http://madawei.net/tags/IT%E5%BC%80%E5%8F%91/"/>
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://madawei.net/2016/01/25/hello-world/"/>
-    <id>http://madawei.net/2016/01/25/hello-world/</id>
-    <published>2016-01-25T08:02:59.000Z</published>
-    <updated>2016-01-25T08:02:59.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
-    </summary>
+      <category term="Mac" scheme="http://madawei.net/tags/Mac/"/>
+    
+      <category term="全栈开发" scheme="http://madawei.net/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
