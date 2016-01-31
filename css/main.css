@@ -1544,7 +1544,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d0bdff;
+  background: #941cff;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -2277,7 +2277,7 @@ body {
   float: left;
   margin-right: 10px;
   max-width: 64px;
-  border-width: 1px;
+  border-width: 0px;
   border-color: #eee;
 }
 .site-author-name {
