@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>http://madawei.net/post-sitemap.xml</loc>
-        <lastmod>2016-02-01T09:21:11.000Z</lastmod>
+        <lastmod>2016-02-01T14:15:32.000Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,12 +13,12 @@
 
     <sitemap>
         <loc>http://madawei.net/category-sitemap.xml</loc>
-        <lastmod>2016-01-31T17:51:42.000Z</lastmod>
+        <lastmod>2016-02-01T09:21:11.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://madawei.net/tag-sitemap.xml</loc>
-        <lastmod>2016-01-31T17:51:42.000Z</lastmod>
+        <lastmod>2016-02-01T09:21:11.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>

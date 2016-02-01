@@ -76,7 +76,7 @@
     <link href="http://madawei.net/2016/01/31/20160131/"/>
     <id>http://madawei.net/2016/01/31/20160131/</id>
     <published>2016-01-31T12:10:20.000Z</published>
-    <updated>2016-01-31T17:51:42.000Z</updated>
+    <updated>2016-02-01T14:15:32.000Z</updated>
     <content type="html"><![CDATA[<h3 id="u524D_u8A00"><a href="#u524D_u8A00" class="headerlink" title="&#x524D;&#x8A00;"></a>&#x524D;&#x8A00;</h3><p>&#x5BF9;&#x7ECF;&#x5E38;&#x9700;&#x8981;&#x8BA1;&#x7B97;&#x673A;&#x5DE5;&#x4F5C;&#x7684;&#x4EBA;&#x6765;&#x8BF4;&#xFF0C;&#x6253;&#x9020;&#x4E00;&#x4E2A;&#x9AD8;&#x6548;&#x4F18;&#x96C5;&#x7684;&#x5DE5;&#x4F5C;&#x73AF;&#x5883;&#x5F88;&#x6709;&#x5FC5;&#x8981;&#xFF0C;&#x7531;&#x4E8E;&#x6211;&#x4E3B;&#x8981;&#x5DE5;&#x4F5C;&#x662F;&#x505A;Web&#x5F00;&#x53D1;&#x7684;&#xFF0C;&#x7ECF;&#x5E38;&#x9700;&#x8981;&#x5728;&#x952E;&#x76D8;&#x548C;&#x5C4F;&#x5E55;&#x524D;&#x5DE5;&#x4F5C;&#x5F88;&#x957F;&#x65F6;&#x95F4;&#xFF0C;&#x6240;&#x4EE5;&#x672C;&#x6587;&#x4E3B;&#x8981;&#x8BA8;&#x8BBA;&#x5728;Mac&#x7CFB;&#x7EDF;&#x4E0B;&#x7684;&#x5DE5;&#x4F5C;&#x73AF;&#x5883;&#x8BBE;&#x7F6E;&#xFF0C;&#x4F46;&#x662F;&#x6587;&#x4E2D;&#x6240;&#x6D89;&#x53CA;&#x7684;&#x5F88;&#x591A;&#x8F6F;&#x4EF6;Windows&#x7CFB;&#x7EDF;&#x548C;Linux&#x7CFB;&#x7EDF;&#x5927;&#x591A;&#x4E5F;&#x6709;&#x66FF;&#x4EE3;&#x54C1;&#xFF0C;&#x975E;Mac&#x7CFB;&#x7EDF;&#x5DE5;&#x4F5C;&#x7684;&#x540C;&#x5B66;&#x4E5F;&#x53EF;&#x4EE5;&#x6309;&#x7167;&#x8FD9;&#x4E2A;&#x601D;&#x8DEF;&#x6765;&#x501F;&#x9274;&#x3002;</p>
 <h3 id="u7CFB_u7EDF_u7BC7"><a href="#u7CFB_u7EDF_u7BC7" class="headerlink" title="&#x7CFB;&#x7EDF;&#x7BC7;"></a>&#x7CFB;&#x7EDF;&#x7BC7;</h3><h4 id="u786C_u4EF6"><a href="#u786C_u4EF6" class="headerlink" title="&#x786C;&#x4EF6;"></a>&#x786C;&#x4EF6;</h4><ol>
 <li>MacBook Pro(Retina Display/13&#x2019;)<br><img src="http://7xqna7.com1.z0.glb.clouddn.com/mac.png" alt="Mac"></li>
@@ -90,7 +90,7 @@
 <hr>
 <h4 id="u8F6F_u4EF6"><a href="#u8F6F_u4EF6" class="headerlink" title="&#x8F6F;&#x4EF6;"></a>&#x8F6F;&#x4EF6;</h4><p><img src="http://7xqna7.com1.z0.glb.clouddn.com/my-mac-app.png" alt="Mac"></p>
 <ol>
-<li><p>f.lux<br>&#x5C4F;&#x5E55;&#x8272;&#x6E29;&#x81EA;&#x52A8;&#x8C03;&#x8282;&#x795E;&#x5668;&#xFF0C;&#x62A4;&#x773C;&#x5FC5;&#x5907;&#x3002;</p>
+<li><p>F.lux<br>&#x5C4F;&#x5E55;&#x8272;&#x6E29;&#x81EA;&#x52A8;&#x8C03;&#x8282;&#x795E;&#x5668;&#xFF0C;&#x62A4;&#x773C;&#x5FC5;&#x5907;&#x3002;</p>
 </li>
 <li><p>VPN(&#x53D1;&#x73B0;&#x66F4;&#x5927;&#x7684;&#x4E16;&#x754C;)<br><a href="https://www.ytpub.com/" title="[external]" target="_blank" rel="external">&#x4E91;&#x68AF;</a>&#x662F;&#x6211;&#x4E00;&#x76F4;&#x5728;&#x7528;&#x7684;&#x4ED8;&#x8D39;VPN&#xFF0C;&#x4E4B;&#x524D;&#x4E3A;&#x4E86;&#x514D;&#x8D39;&#x6298;&#x817E;&#x4E86;Google Agent&#x3001;&#x5404;&#x8DEF;&#x56FD;&#x5185;&#x5916;&#x514D;&#x8D39;VPN&#x3001;&#x79D1;&#x5B66;&#x7FFB;&#x5899;&#x53CA;&#x7528;&#x81EA;&#x5DF1;&#x7684;VPS&#x642D;&#x5EFA;OpenVPN&#x7B49;&#x65B9;&#x6CD5;&#xFF0C;&#x6700;&#x540E;&#x53D1;&#x73B0;&#x8FD8;&#x662F;&#x4ED8;&#x8D39;&#x6BD4;&#x8F83;&#x7701;&#x4E8B;&#xFF0C;&#x6BD5;&#x7ADF;&#x81EA;&#x5DF1;&#x7684;&#x65F6;&#x95F4;&#x662F;&#x6700;&#x8D35;&#x7684;&#x3002;</p>
 </li>
@@ -175,7 +175,8 @@
 <li><p>Twitter<br>&#x65B0;&#x6D6A;&#x5FAE;&#x535A;&#x771F;&#x662F;&#x4E00;&#x4E2A;&#x7A7F;&#x8863;&#x670D;&#x5305;&#x88C5;&#x7684;&#x597D;&#x5730;&#x65B9;&#xFF0C;&#x5E7F;&#x544A;&#x4E91;&#x96C6;&#xFF0C;&#x8FD8;&#x662F;Twitter&#x7B80;&#x5355;&#x597D;&#x7528;&#xFF0C;&#x591A;&#x5173;&#x6CE8;&#x4E9B;&#x4EBA;&#x4E5F;&#x4F1A;&#x8BA9;Twitter&#x53D8;&#x6210;&#x4E00;&#x4E2A;&#x975E;&#x5E38;&#x4E0D;&#x9519;&#x7684;&#x4FE1;&#x606F;&#x6765;&#x6E90;&#x5730;&#x3002;</p>
 </li>
 </ol>
-<h3 id="The_End"><a href="#The_End" class="headerlink" title="The End"></a>The End</h3><figure class="highlight lisp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert<span class="list">(<span class="quoted">&apos;Hello</span> World!&apos;)</span><span class="comment">;</span></span><br></pre></td></tr></table></figure>]]></content>
+<h3 id="The_End"><a href="#The_End" class="headerlink" title="The End"></a>The End</h3><figure class="highlight lisp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert<span class="list">(<span class="quoted">&apos;Hello</span> World!&apos;)</span><span class="comment">;</span></span><br></pre></td></tr></table></figure>
+]]></content>
     <summary type="html">
     <![CDATA[<h3 id="u524D_u8A00"><a href="#u524D_u8A00" class="headerlink" title="&#x524D;&#x8A00;"></a>&#x524D;&#x8A00;</h3><p>&#x5BF9;&#x7ECF;&#x5E38;]]>
     </summary>
