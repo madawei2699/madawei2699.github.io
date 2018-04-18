@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://madawei.net/post-sitemap.xml</loc>
+        <loc>http://mdw.one/post-sitemap.xml</loc>
         <lastmod>2016-02-02T05:45:45.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://madawei.net/page-sitemap.xml</loc>
-        <lastmod>2016-02-02T05:06:22.000Z</lastmod>
+        <loc>http://mdw.one/page-sitemap.xml</loc>
+        <lastmod>2018-04-18T15:34:00.601Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://madawei.net/category-sitemap.xml</loc>
+        <loc>http://mdw.one/category-sitemap.xml</loc>
         <lastmod>2016-02-01T09:21:11.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://madawei.net/tag-sitemap.xml</loc>
+        <loc>http://mdw.one/tag-sitemap.xml</loc>
         <lastmod>2016-02-01T09:21:11.000Z</lastmod>
     </sitemap>
 
