@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://mdw.one/post-sitemap.xml</loc>
+        <loc>https://mdw.one/post-sitemap.xml</loc>
         <lastmod>2019-01-02T10:26:09.385Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://mdw.one/page-sitemap.xml</loc>
+        <loc>https://mdw.one/page-sitemap.xml</loc>
         <lastmod>2016-02-01T16:39:23.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://mdw.one/category-sitemap.xml</loc>
+        <loc>https://mdw.one/category-sitemap.xml</loc>
         <lastmod>2019-01-02T10:23:38.443Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://mdw.one/tag-sitemap.xml</loc>
+        <loc>https://mdw.one/tag-sitemap.xml</loc>
         <lastmod>2019-01-02T10:23:38.443Z</lastmod>
     </sitemap>
 
