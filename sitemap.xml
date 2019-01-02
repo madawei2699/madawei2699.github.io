@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>http://mdw.one/post-sitemap.xml</loc>
-        <lastmod>2016-02-02T05:45:45.000Z</lastmod>
+        <lastmod>2019-01-02T10:26:09.385Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,12 +13,12 @@
 
     <sitemap>
         <loc>http://mdw.one/category-sitemap.xml</loc>
-        <lastmod>2016-02-01T09:21:11.000Z</lastmod>
+        <lastmod>2019-01-02T10:23:38.443Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://mdw.one/tag-sitemap.xml</loc>
-        <lastmod>2016-02-01T09:21:11.000Z</lastmod>
+        <lastmod>2019-01-02T10:23:38.443Z</lastmod>
     </sitemap>
 
 </sitemapindex>
