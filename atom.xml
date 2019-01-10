@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://mdw.one/"/>
+  <link href="http://mdw.one/"/>
   <updated>2019-01-02T10:26:09.385Z</updated>
-  <id>https://mdw.one/</id>
+  <id>http://mdw.one/</id>
   
   <author>
     <name>Dawei Ma</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>打造优雅高效的写作环境</title>
-    <link href="https://mdw.one/2016/02/01/20160201/"/>
-    <id>https://mdw.one/2016/02/01/20160201/</id>
+    <link href="http://mdw.one/2016/02/01/20160201/"/>
+    <id>http://mdw.one/2016/02/01/20160201/</id>
     <published>2016-02-01T04:22:16.000Z</published>
     <updated>2019-01-02T10:26:09.385Z</updated>
     
@@ -34,21 +34,21 @@
     
     </summary>
     
-      <category term="武器库" scheme="https://mdw.one/categories/%E6%AD%A6%E5%99%A8%E5%BA%93/"/>
+      <category term="武器库" scheme="http://mdw.one/categories/%E6%AD%A6%E5%99%A8%E5%BA%93/"/>
     
     
-      <category term="Hexo" scheme="https://mdw.one/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://mdw.one/tags/Hexo/"/>
     
-      <category term="写作" scheme="https://mdw.one/tags/%E5%86%99%E4%BD%9C/"/>
+      <category term="写作" scheme="http://mdw.one/tags/%E5%86%99%E4%BD%9C/"/>
     
-      <category term="Github" scheme="https://mdw.one/tags/Github/"/>
+      <category term="Github" scheme="http://mdw.one/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>打造优雅高效的Mac工作环境</title>
-    <link href="https://mdw.one/2016/01/31/20160202/"/>
-    <id>https://mdw.one/2016/01/31/20160202/</id>
+    <link href="http://mdw.one/2016/01/31/20160202/"/>
+    <id>http://mdw.one/2016/01/31/20160202/</id>
     <published>2016-01-31T12:10:20.000Z</published>
     <updated>2019-01-02T10:23:38.443Z</updated>
     
@@ -63,12 +63,12 @@
     
     </summary>
     
-      <category term="全栈开发" scheme="https://mdw.one/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/"/>
+      <category term="全栈开发" scheme="http://mdw.one/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="Mac" scheme="https://mdw.one/tags/Mac/"/>
+      <category term="Mac" scheme="http://mdw.one/tags/Mac/"/>
     
-      <category term="IT开发" scheme="https://mdw.one/tags/IT%E5%BC%80%E5%8F%91/"/>
+      <category term="IT开发" scheme="http://mdw.one/tags/IT%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
